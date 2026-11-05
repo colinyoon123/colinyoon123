@@ -6,3 +6,4 @@ Biomedical Science graduate (BSc Hons, First Class, Northumbria University, UK),
 - **Learning:** Python, R and SQL
 - **Interested in:** clinical data, bioinformatics and healthcare data analysis
 - **LinkedIn:** [colin-yoon-055572271](https://www.linkedin.com/in/colin-yoon-055572271)
+- **Based in:** Kuala Lumpur, Malaysia
